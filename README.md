@@ -2,7 +2,7 @@
 Week-6-Midterm
 
 # Project Description
-Create a repository on GitHub. Make a 1-page HTML site with two points of view. Make two branches, one for each point of view. Include images. The Paleontology will be for the arguments supporting its position.
+Create a repository on GitHub. Make a 1-page HTML site with two points of view. Make two branches, one for each point of view. Include images. The Paleontology branch will be for the arguments supporting its position.
 
 # Installation
 Copy repository from GitHub to preferred project location.
