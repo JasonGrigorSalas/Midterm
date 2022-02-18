@@ -2,7 +2,7 @@
 Week-6-Midterm
 
 # Project Description
-Create a repository on GitHub. Make a 1-page HTML site with two points of view. Make two branches, one for each point of view. Include images.
+Create a repository on GitHub. Make a 1-page HTML site with two points of view. Make two branches, one for each point of view. Include two images.
 
 # Installation
 Copy repository from GitHub to preferred project location.
